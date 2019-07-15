@@ -1,6 +1,6 @@
 This is a sample README file for my github pages.
 [testing the fork]
-```sh
+```ps
 $ kubectl get secret sample-coherence-secret -n sample-coherence-ns
   ```
   ```console
